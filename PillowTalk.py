@@ -1,7 +1,7 @@
 #Author: Omar Ansari
 #Verison 1.0
 
-?from tweepy.streaming import StreamListener
+from tweepy.streaming import StreamListener
 from tweepy import OAuthHandler
 from tweepy import Stream
 import tweepy
